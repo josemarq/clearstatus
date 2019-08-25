@@ -5,8 +5,8 @@ params:
   dateFormat: 'January 2, 2006 at 3:04 PM'
   description_footer: ''
   description_header: >-
-    Follow us <a class='text-grey-darkest' title='Visit our page on Twitter'
-    href='https://www.twitter.com/example'>on Twitter</a> or subscribe to <a
+    <!--Follow us <a class='text-grey-darkest' title='Visit our page on Twitter'
+    href='https://www.twitter.com/example'>on Twitter</a> or subscribe to --><a
     class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new
     events.
   eventsPerPage: 10
@@ -17,5 +17,11 @@ params:
     https://pbs.twimg.com/profile_images/1136219516403425280/X5s46e53_400x400.png
   meta_description: ''
   shortDateFormat: '15:04 — Jan 2'
-  systems: []
+  systems:
+    - group: Apps
+      name: Apps
+    - group: Apps
+      name: Notificaciones
+    - group: Skills
+      name: Alexa Skills
   timezoneString: ' UTC'
