@@ -17,7 +17,7 @@ params:
   eventsPerPage: 10
   groups:
     - Apps
-  logo: /images/logo-1-uai-1032x258.png
+  logo: /images/logo1.png
   meta_description: >-
     This status page provides updated information about our systems normal
     operation, incidents that may happen and their resolution.
