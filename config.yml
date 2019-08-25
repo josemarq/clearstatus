@@ -17,8 +17,7 @@ params:
   eventsPerPage: 10
   groups:
     - Apps
-  logo: >-
-    http://www.miplaneta.com/wp1/wp-content/uploads/2017/02/logo-1-uai-1032x258.png
+  logo: /images/logo-1-uai-1032x258.png
   meta_description: >-
     This status page provides updated information about our systems normal
     operation, incidents that may happen and their resolution.
