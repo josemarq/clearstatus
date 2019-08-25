@@ -2,7 +2,7 @@
 section: issue
 title: Notificaciones
 date: 2019-08-25T21:05:29.244Z
-status: in_progress
+status: resolved
 pinned: ''
 current_severity: monitoring
 max_severity: down
