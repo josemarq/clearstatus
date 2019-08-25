@@ -22,4 +22,6 @@ params:
     - description: Mobile Apps published on Play Store and App Store
       link: ''
       name: Apps
+    - description: Skills
+      name: Alexa Skills
   timezoneString: ' UTC'
