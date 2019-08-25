@@ -3,10 +3,7 @@ languageCode: es
 params:
   copyrightHolder: miplaneta.com
   dateFormat: 'January 2, 2006 at 3:04 PM'
-  description_footer: >-
-    <a class='text-grey-darkest' title='Visit example.com'
-    href='https://www.example.com/'>Example.com</a> provides open-source
-    software for all kind of sectors.
+  description_footer: ''
   description_header: >-
     Information about <a class='text-grey-darkest' title='Visit example.com'
     href='https://www.example.com/'>example</a> systems operations.<br />Follow
@@ -19,9 +16,7 @@ params:
     - Apps
   logo: >-
     http://www.miplaneta.com/wp1/wp-content/uploads/2017/02/logo-1-uai-1032x258.png
-  meta_description: >-
-    This status page provides updated information about our systems normal
-    operation, incidents that may happen and their resolution.
+  meta_description: ''
   shortDateFormat: '15:04 — Jan 2'
   systems:
     - description: Mobile Apps published on Play Store and App Store
