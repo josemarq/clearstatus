@@ -24,4 +24,7 @@ params:
       name: Notificaciones
     - group: Skills
       name: Alexa Skills
+    - description: Website for retrieval values from our Alexa Skills.
+      group: Skills
+      name: Website
   timezoneString: ' UTC'
