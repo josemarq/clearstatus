@@ -1,2 +1,4 @@
 - id: isDown
   translation: Houston, tenemos un problema...
+- id: isOk
+  translation: Todo está OK!.
