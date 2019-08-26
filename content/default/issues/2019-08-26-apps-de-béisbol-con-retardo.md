@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Apps de Béisbol con retardo
+title: Apps de Beisbol con retardo
 date: 2019-08-26T13:28:58.388Z
 status: in_progress
 pinned: ''
