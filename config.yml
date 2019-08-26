@@ -20,7 +20,8 @@ params:
   systems:
     - group: Apps
       name: Apps
-    - group: Apps
+    - description: Push Notifications from our apps.
+      group: Apps
       name: Notificaciones
     - group: Skills
       name: Alexa Skills
