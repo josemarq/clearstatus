@@ -10,7 +10,7 @@ duration: ''
 resolved_on: 2019-08-26T13:28:58.406Z
 affected:
   - Apps
-twitterFeed: ''
+twitterFeed: '@miplaneta_com'
 enableComments: false
 ---
 
